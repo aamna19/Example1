@@ -25,7 +25,7 @@ for (i=0;i<5;++i)
 	++*ptr;
 }
 
-//I made changes
+//I made changes//
 
 return 0;
 }
